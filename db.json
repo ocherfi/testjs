@@ -2,8 +2,7 @@
     {
       "id": 1,
       "objet": "hello",
-      "expediteur": "MI",
-      "division": "DAS"
+      "expediteur": "MI"
     }
   ],
   "profile": {
