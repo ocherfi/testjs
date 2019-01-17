@@ -1,0 +1,12 @@
+ "gcs": [
+    {
+      "id": 1,
+      "objet": "hello",
+      "expediteur":"MI",
+      "division":"DAS"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
