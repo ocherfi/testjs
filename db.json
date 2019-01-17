@@ -1,8 +1,8 @@
- "gcs": [
+{
+  "posts": [
     {
       "id": 1,
-      "objet": "hello",
-      "expediteur": "MI"
+      "title": "hello"
     }
   ],
   "profile": {
